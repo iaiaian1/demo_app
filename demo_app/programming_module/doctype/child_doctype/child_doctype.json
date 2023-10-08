@@ -1,0 +1,37 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2023-10-08 16:48:37.161219",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "best_fromsoft",
+  "worst_fromsoft"
+ ],
+ "fields": [
+  {
+   "fieldname": "best_fromsoft",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Best Fromsoft"
+  },
+  {
+   "fieldname": "worst_fromsoft",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Worst Fromsoft"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2023-10-08 16:54:59.124471",
+ "modified_by": "Administrator",
+ "module": "Programming Module",
+ "name": "Child Doctype",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}
